@@ -21,7 +21,7 @@ jobs:
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.6.0
     with:
       exercise-title: "Communicate using Markdown"
-      intro-message: "Organize ideas and collaborate using Markdown, a lightweight language for text formatting."
+      intro-message: "テキストを整えるための軽量な言語 Markdown を使って、考えを整理し、共同作業を進めます。手順はこの Issue にコメントとして順に投稿されるので、上から順に進めてください。"
 
   post_next_step_content:
     name: Post next step content

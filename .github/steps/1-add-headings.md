@@ -1,14 +1,14 @@
-## Step 1: Add headings
+## Step 1: 見出しを追加する
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub such as:
+**_Markdown_ とは**: Markdown は、GitHub 上でのやり取りに使う[軽量な記法](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)です。見出し、リスト、**太字**、_斜体_、表など、さまざまな書式を付けられます。Markdown は GitHub の次のような場所で使えます。
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+- [issue](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues)、[pull request](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)、[discussion](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions) のコメント
+- 拡張子が `.md` または `.markdown` のファイル
+- [Gist](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) に書いたテキスト
 
-**What is a _heading_?** A heading is a larger bit of text at the beginning of a section. There are six sizes.
+**_見出し_ とは**: 見出しは、セクションの先頭に置く少し大きな文字です。大きさは 6 段階あります。
 
-### Example
+### 例
 
 ```md
 # This is an `<h1>` heading, which is the largest
@@ -24,33 +24,33 @@
 
 ###### This is an `<h6>` heading, which is the smallest
 
-### ⌨️ Activity: Create a markdown file
+### ⌨️ やること: Markdown ファイルを作る
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
+1. ブラウザーで新しいタブを開きます。説明は今のタブで読み、操作はもう一方のタブで行います。
 
-1. In the top navigation, select the **Code** tab.
+1. 上部のメニューで **Code** タブを開きます。
 
-1. Create a new branch with the following name:
+1. 次の名前で新しいブランチを作ります。
 
    ```md
    start-blog
    ```
 
-1. Above the files list, click the **Add file** button and select **Create new file**.
+1. ファイル一覧の上にある **Add file** ボタンをクリックし、**Create new file** を選びます。
 
-1. Use the following file name.
+1. ファイル名は次のとおりにします。
 
    ```md
    day-1.md
    ```
 
-1. In the editor, on the first line use a level one heading to give the page a title.
+1. エディターの 1 行目に、レベル 1 の見出しでページのタイトルを書きます。
 
    ```md
    # Daily Learning
    ```
 
-1. Add a couple level 2 headings for the names of each of the blog posts.
+1. 各ブログ記事の名前として、レベル 2 の見出しを 2 つ追加します。
 
    ```md
    ## Morning Planning
@@ -58,16 +58,16 @@
    ## Review
    ```
 
-1. Above the editor, click the **Preview** toggle to view the rendered version.
+1. エディターの上にある **Preview** の切り替えをクリックして、表示結果を確認します。
 
-1. In the top right, click the **Commit changes** button and commit directly to the `start-blog` branch.
+1. 右上の **Commit changes** ボタンをクリックし、`start-blog` ブランチに直接コミットします。
 
-1. With our headings created and committed, Mona should be busy reviewing your work and preparing the next steps.
+1. 見出しを作成してコミットしたので、Mona が作業を確認しています。少し待って、コメントを見てください。進捗と次の Step が投稿されます。
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>うまくいかないとき 🤷</summary><br/>
 
-- Confirm you are editing the correct file and branch.
-- Double check your syntax. The must be a space between the `#` and first word.
+- 編集しているファイルとブランチが正しいか確認してください。
+- 記法を見直してください。`#` と最初の単語の間には半角スペースが必要です。
 
 </details>

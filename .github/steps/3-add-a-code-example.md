@@ -1,11 +1,11 @@
-## Step 3: Add a code sample
+## Step 3: コード例を追加する
 
-Let's learn about [code blocks](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code) and [syntax highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) based on the language.
+[コードブロック](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)と、言語に応じた[シンタックスハイライト](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)を学びます。
 
 > [!TIP]
-> Many programming languages are supported. Try testing out some other file extension types!
+> 多くのプログラミング言語に対応しています。ほかの言語の指定も試してみてください。
 
-### Example: Terminal Command
+### 例: ターミナルコマンド
 
 ````md
 ```bash
@@ -17,7 +17,7 @@ git clone https://github.com/skills/communicate-using-markdown
 git clone https://github.com/skills/communicate-using-markdown
 ```
 
-### Example: Javascript Code
+### 例: JavaScript のコード
 
 ````md
 ```js
@@ -29,11 +29,11 @@ var myVar = "Hello, world!";
 var myVar = "Hello, world!";
 ```
 
-### :keyboard: Activity: Adding a code example
+### :keyboard: やること: コード例を追加する
 
-1. On the `start-blog` branch, open the `day-1.md` file for editing.
+1. `start-blog` ブランチで、`day-1.md` ファイルを開いて編集します。
 
-1. Below **Review** level two heading add the following entry recording an awesome code snippet you just learned from the GitHub Blog.
+1. **Review** のレベル 2 見出しの下に、GitHub Blog で知ったコードの記録として次の内容を追加します。
 
    ````md
    Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
@@ -43,16 +43,16 @@ var myVar = "Hello, world!";
    ```
    ````
 
-1. Use the **Preview** tab to check your Markdown formatting.
+1. **Preview** タブで Markdown の書式を確認します。
 
-1. In the top right, click the **Commit changes** button and commit directly to the `start-blog` branch.
+1. 右上の **Commit changes** ボタンをクリックし、`start-blog` ブランチに直接コミットします。
 
-1. With our code block committed, Mona should be busy reviewing your work and preparing the next steps.
+1. コードブロックをコミットしたので、Mona が作業を確認しています。少し待って、コメントを見てください。進捗と次の Step が投稿されます。
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>うまくいかないとき 🤷</summary><br/>
 
-- Confirm you are editing the correct file and branch.
-- Double check your syntax. A code block is three backticks ` ``` ` not three apostrophes `'''`
+- 編集しているファイルとブランチが正しいか確認してください。
+- 記法を見直してください。コードブロックはバッククォート 3 個 ` ``` ` であり、アポストロフィ 3 個 `'''` ではありません。
 
 </details>
