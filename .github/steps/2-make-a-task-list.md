@@ -2,9 +2,9 @@
 
 Markdown では、よく使う 3 種類のリストが使えます。
 
-- [順序なしリスト](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) - 箇条書き
-- [順序付きリスト](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) - 番号付きリスト
-- [タスクリスト](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) - チェックボックスのリスト
+- [順序なしリスト](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) - 箇条書き
+- [順序付きリスト](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) - 番号付きリスト
+- [タスクリスト](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) - チェックボックスのリスト
 
 ### 順序なしリスト
 
@@ -48,7 +48,7 @@ Markdown では、よく使う 3 種類のリストが使えます。
 - [ ] This task is not complete
 
 > [!TIP]
-> issue や pull request でも、タスクの記法を使って[進捗を伝える](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-tasklists)ことができます。
+> issue や pull request でも、タスクの記法を使って[進捗を伝える](https://docs.github.com/ja/get-started/writing-on-github/working-with-advanced-formatting/about-tasklists)ことができます。
 
 ### :keyboard: やること: 朝の計画にアイデアと目標を追加する
 

@@ -1,6 +1,6 @@
 ## Step 4: 画像を追加する
 
-[Markdown での画像](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)の入れ方を、相対 URL、絶対 URL、サイズ指定、簡単な配置指定とあわせて学びます。
+[Markdown での画像](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)の入れ方を、相対 URL、絶対 URL、サイズ指定、簡単な配置指定とあわせて学びます。
 
 ### 通常の Markdown
 
