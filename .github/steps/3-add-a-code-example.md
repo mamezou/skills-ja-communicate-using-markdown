@@ -1,6 +1,6 @@
 ## Step 3: コード例を追加する
 
-[コードブロック](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)と、言語に応じた[シンタックスハイライト](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)を学びます。
+[コードブロック](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)と、言語に応じた[シンタックスハイライト](https://docs.github.com/ja/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)を学びます。
 
 > [!TIP]
 > 多くのプログラミング言語に対応しています。ほかの言語の指定も試してみてください。
